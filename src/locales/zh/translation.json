@@ -1,0 +1,147 @@
+{
+  "home": {
+    "featured": "Featured",
+    "recently_added": "最近添加",
+    "trending": "最热",
+    "surprise_me": "随机游戏",
+    "no_results": "没有查询结果"
+  },
+  "sidebar": {
+    "catalogue": "游戏列表",
+    "downloads": "下载列表",
+    "settings": "设置",
+    "my_library": "我的游戏库",
+    "downloading_metadata": "{{title}} (下载元数据中…)",
+    "checking_files": "{{title}} ({{percentage}} - 检查文件完整性…)",
+    "paused": "{{title}} (Paused)",
+    "downloading": "{{title}} ({{percentage}} - 下载中…)",
+    "filter": "从游戏库中筛选",
+    "follow_us": "关注我",
+    "home": "主页"
+  },
+  "header": {
+    "search": "搜索",
+    "home": "主页",
+    "catalogue": "游戏列表",
+    "downloads": "下载列表",
+    "search_results": "搜索结果",
+    "settings": "设置"
+  },
+  "bottom_panel": {
+    "no_downloads_in_progress": "当前列表中没有游戏正在下载",
+    "downloading_metadata": "正在下载 {{title}} 的元数据…",
+    "checking_files": "正在检查 {{title}} 文件… 当前进度：({{percentage}} )",
+    "downloading": "正在下载文件 {{title}}… 当前进度：({{percentage}} ) - Conclusion {{eta}} - {{speed}}"
+  },
+  "catalogue": {
+    "next_page": "下一页",
+    "previous_page": "上一页"
+  },
+  "game_details": {
+    "open_download_options": "打开下载选项",
+    "download_options_zero": "无下载选项",
+    "download_options_one": "{{count}} 下载选项",
+    "download_options_other": "{{count}} 下载选项",
+    "updated_at": "更新于： {{updated_at}}",
+    "install": "下载",
+    "resume": "恢复",
+    "pause": "暂停",
+    "cancel": "取消",
+    "remove": "删除",
+    "remove_from_list": "从列表中删除",
+    "space_left_on_disk": "磁盘剩余：{{space}} ",
+    "eta": "Conclusion {{eta}}",
+    "downloading_metadata": "下载元数据…",
+    "checking_files": "检查游戏完整性…",
+    "filter": "重新更新过滤器",
+    "requirements": "系统需求",
+    "minimum": "最低配置",
+    "recommended": "推荐配置",
+    "no_minimum_requirements": "{{title}} 游戏并未提供最低配置需求",
+    "no_recommended_requirements": "{{title}} 游戏并未提供推荐配置需求",
+    "paused_progress": "{{progress}} (暂停中)",
+    "release_date": "发行于 {{date}}",
+    "publisher": "发行商： {{publisher}}",
+    "copy_link_to_clipboard": "复制链接",
+    "copied_link_to_clipboard": "链接已复制",
+    "hours": "小时",
+    "minutes": "分钟",
+    "accuracy": "{{accuracy}}% accuracy",
+    "add_to_library": "添加至游戏库",
+    "remove_from_library": "从游戏库删除",
+    "no_downloads": "无下载源",
+    "play_time": "游玩总时长： {{amount}} ",
+    "last_time_played": "上一次游玩时间： {{period}}",
+    "not_played_yet": "你还没有游玩 {{title}} ",
+    "next_suggestion": "下一个游戏推荐",
+    "play": "游玩",
+    "deleting": "删除安装包…",
+    "close": "关闭",
+    "playing_now": "现在开玩！",
+    "change": "切换",
+    "repacks_modal_description": "选择你要下载的补丁",
+    "downloads_path": "下载至..",
+    "select_folder_hint": "要切换至路径，请先访问：",
+    "settings": "Hydra 设置",
+    "download_now": "现在下载"
+  },
+  "activation": {
+    "title": "激活 Hydra",
+    "installation_id": "Installation ID:",
+    "enter_activation_code": "输入激活码",
+    "message": "If you don't know where to ask for this, then you shouldn't have this.",
+    "activate": "激活",
+    "loading": "加载中…"
+  },
+  "downloads": {
+    "resume": "恢复",
+    "pause": "暂停",
+    "eta": "Conclusion {{eta}}",
+    "paused": "已暂停",
+    "verifying": "验证中…",
+    "completed_at": "总用时： {{date}}",
+    "completed": "已完成",
+    "cancelled": "已取消",
+    "download_again": "重新下载",
+    "cancel": "取消",
+    "filter": "筛选已下载游戏",
+    "remove": "删除",
+    "downloading_metadata": "下载元数据中…",
+    "checking_files": "检查文件完整性中…",
+    "starting_download": "开始下载…",
+    "deleting": "删除安装包中…",
+    "delete": "删除安装包",
+    "remove_from_list": "从列表中删除",
+    "delete_modal_title": "是否确定?",
+    "delete_modal_description": "是否移除所有安装包？",
+    "install": "安装"
+  },
+  "settings": {
+    "downloads_path": "下载路径",
+    "change": "更新",
+    "notifications": "提示",
+    "enable_download_notifications": "当下载完成时提示我",
+    "enable_repack_list_notifications": "当有新更新时提示我",
+    "telemetry": "",
+    "telemetry_description": "打开匿名数据收集，帮助开发者改进Hydra。"
+  },
+  "notifications": {
+    "download_complete": "下载完成",
+    "game_ready_to_install": "{{title}} 已经准备好安装包",
+    "repack_list_updated": "更新列表更新",
+    "repack_count_one": "已添加{{count}} 个更新",
+    "repack_count_other": "已添加{{count}} 个其他更新"
+  },
+  "system_tray": {
+    "open": "打开 Hydra",
+    "quit": "退出"
+  },
+  "game_card": {
+    "no_downloads": "暂时没有游戏可以下载"
+  },
+  "binary_not_found_modal": {
+    "title": "程序没有安装完整",
+    "description": "在系统上没有找到Wine or Lutris",
+    "instructions": "游戏无法启动？请检查游戏是否从正确的途径安装至你的Linux系统中"
+  }
+}
